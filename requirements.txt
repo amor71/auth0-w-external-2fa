@@ -1,0 +1,7 @@
+fastapi
+therapist
+mypy
+bandit
+black
+isort
+autoflake
