@@ -5,3 +5,8 @@ bandit
 black
 isort
 autoflake
+uvicorn[standard]
+auth0-python
+pytest
+toml
+twilio
